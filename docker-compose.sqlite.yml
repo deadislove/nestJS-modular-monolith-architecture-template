@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nestjs-app
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      PORT: 3000
+      DB_TYPE: sqlite
+      DB_HOST: localhost
+      DB_PORT: 5432
+      DB_USERNAME:
+      DB_PASSWORD:
+      DB_NAME: database.sqlite
+    restart: unless-stopped
