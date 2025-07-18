@@ -20,8 +20,8 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-![Visitors](https://img.shields.io/badge/visitors-17_total-brightgreen)
-![Clones](https://img.shields.io/badge/clones-23_total_17_unique-blue) <!--CLONE-BADGE-->
+![Visitors](https://img.shields.io/badge/visitors-0_total-brightgreen)
+![Clones](https://img.shields.io/badge/clones-21_total_17_unique-blue) <!--CLONE-BADGE-->
 
 ## 📌 Project Overview
 A modular, scalable, and enterprise-ready backend architecture built with NestJS.
