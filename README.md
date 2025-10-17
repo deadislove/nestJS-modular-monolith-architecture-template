@@ -20,7 +20,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-![Visitors](https://img.shields.io/badge/visitors-118_total-brightgreen)
+![Visitors](https://img.shields.io/badge/visitors-316_total-brightgreen)
 ![Clones](https://img.shields.io/badge/clones-22_total_19_unique-blue) <!--CLONE-BADGE-->
 
 ## 📌 Project Overview
